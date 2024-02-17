@@ -1,0 +1,21 @@
+h1
+{
+    color:aqua;
+    background-color: black;
+}
+
+button
+{
+    padding:1rem;
+    background-color:aqua;
+    border-radius: 15%;
+}
+a
+{
+    text-decoration: none;
+}
+img
+{
+    border-radius: 5% 25%;
+    border: 2px  black solid;
+}
